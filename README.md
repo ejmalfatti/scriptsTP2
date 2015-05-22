@@ -5,6 +5,6 @@ Estimados camaradas FREE, les comparto los script que hice para el Trabajo Prcti
 
 Licencia de todos los scripts **GPL v2**
 
-Les dejo el **[Trabajo Prctico en formato PDF](pdf/TP2_ASA.pdf)**.
+Les dejo el **[Trabajo Prctico en formato PDF](pdf/TP2-ASA.pdf)**.
 
 ![](images/camaradas.jpg)
