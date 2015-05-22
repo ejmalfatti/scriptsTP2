@@ -7,4 +7,5 @@ Licencia de todos los scripts **GPL v2**
 
 Les dejo el **[Trabajo Prctico en formato PDF](pdf/TP2-ASA.pdf)**.
 
+Los camaradas de **Happy Feat**.
 ![](images/camaradas.jpg)
